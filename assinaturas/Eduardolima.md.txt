@@ -1,0 +1,10 @@
+## Sou aluno da DIO
+##Nome: Eduardo de Lima Silva
+
+##Comida favorita: Feijoada e Pizza
+
+Aprendendo: Html, Css, JavaScript, Node.js e Github
+
+Sobre: Cursando cursos gratuitos da DIO e cursando Front-End no Senai-SP para desenvolver minhas habilidades.
+Obs: Adorando esse curso de GITHUB sei que vai me ajudar muito! 
+Obrigado!!!
